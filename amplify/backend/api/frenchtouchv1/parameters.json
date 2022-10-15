@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "frenchtouchv1",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authfrenchtouchv1806a6775",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

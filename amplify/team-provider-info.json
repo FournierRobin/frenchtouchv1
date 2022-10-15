@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frenchtouchv1-dev-180237-authRole",
+      "UnauthRoleArn": "arn:aws:iam::716164265430:role/amplify-frenchtouchv1-dev-180237-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::716164265430:role/amplify-frenchtouchv1-dev-180237-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-frenchtouchv1-dev-180237-deployment",
+      "UnauthRoleName": "amplify-frenchtouchv1-dev-180237-unauthRole",
+      "StackName": "amplify-frenchtouchv1-dev-180237",
+      "StackId": "arn:aws:cloudformation:eu-west-1:716164265430:stack/amplify-frenchtouchv1-dev-180237/4bedea10-4a47-11ed-8f20-0a2a05e35193",
+      "AmplifyAppId": "d3vmz1bgxixkzm"
+    },
+    "categories": {
+      "auth": {
+        "frenchtouchv1806a6775": {}
+      },
+      "api": {
+        "frenchtouchv1": {}
+      }
+    }
+  }
+}
